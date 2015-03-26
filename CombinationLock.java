@@ -1,15 +1,18 @@
 public class CombinationLock {
     private boolean open;
     private int counter;
+    private char[] combination;
 
     public CombinationLock(String first, String second, String third)
     {
         open = true;
-        counter = 3;
+        counter = 0;
+        combination = [first, second, third];
     }
 
     public void setPosition(String aPosition)
     {
+
     }
 
     public void tryToOpen()
