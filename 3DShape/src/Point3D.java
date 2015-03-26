@@ -10,7 +10,7 @@ public class Point3D {
     private int y; // represents y-coordinate
     private int z; // represents z-coordinate
 
-    public Point3D(int x, int y, int z) {
+    public Point3D(int x, int y, int z) {ß
         this.x = x;
         this.y = y;
         this.z = z;
