@@ -1,0 +1,52 @@
+The array of shapes:
+
+The Sphere center:
+ The coordinates are 2, -8, 5
+ -- Radius of  13
+It also has a surface area of 2123.7166338267 units^2 and a volume of 9202.7720799157 units^3.
+
+The Parallelipiped center:
+ The coordinates are 7, 2, 9
+ -- Length of  37
+ -- Width of  12
+ -- Height of 9
+It also has a surface area of 1770.0 units^2 and a volume of 3996.0 units^3.
+
+The Cylinder center:
+ The coordinates are 3, -4, 5
+ -- Radius of  11
+ -- Height of  13
+It also has a surface area of 1658.7609210954106 units^2 and a volume of 4941.725244096745 units^3.
+
+The Cone center:
+ The coordinates are -5, 2, -1
+ -- Radius of  14
+ -- Height of  10
+It also has a surface area of 1372.4522122600667 units^2 and a volume of 2052.5072003453315 units^3.
+
+The array of shapes sorted by ascending volume:
+ 
+The Cone has a volume of 2052.5072003453315 units^3.
+
+
+The Parallelipiped has a volume of 3996.0 units^3.
+
+
+The Cylinder has a volume of 4941.725244096745 units^3.
+
+
+The Sphere has a volume of 9202.7720799157 units^3.
+
+
+The array of shapes sorted by descending distance from origin:
+ 
+The Parallelipiped has a distance of 11.575836902790225 units from origin.
+
+
+The Sphere has a distance of 9.643650760992955 units from origin.
+
+
+The Cylinder has a distance of 7.0710678118654755 units from origin.
+
+
+The Cone has a distance of 5.477225575051661 units from origin.

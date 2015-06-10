@@ -65,7 +65,7 @@ public abstract class Shape implements Comparable<Shape> {
      * Overridden compareTo() method that compares
      * the volume of one shape to the other
      *
-     * @param shape1 the 3D shape
+     * @param shape the 3D shape
      * @return true or false depending on if the volume
      * is greater, less than, or equal to each another shape
      */
